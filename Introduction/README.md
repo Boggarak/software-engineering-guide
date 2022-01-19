@@ -22,4 +22,21 @@ Well, *no*, actually.
 
 Due to how fast technology is advancing and how there is so much one can learn about programming or software, software engineers are often specialized in a specific subfield. There are software engineers out there who are better at optimizing memory usage and storage while there are software engineers who are better at making code and data secure and resistant to corruption. Due to this, you are not actually expected to know *everything*, and asking help could not only save time, but also help make the solution better than if you wasted hours fixing the problem on your own. We are all human and we could end up making mistakes that an expert on the problem you are trying to solve would have pointed out. 
 
-In other words, asking for help is *actually* the **smartest thing you can do**. Also, the whole point of an engineer is to *solve problems*, and if asking for help gets you closer to solving that problem, then *do it*! Don't be scared of being seen as stupid as you aren't.
+In other words, asking for help is *actually* the **smartest thing you can do**. Also, the whole point of an engineer is to *solve problems*, and if asking for help gets you closer to solving that problem, then *do it*! Don't be scared of being seen as stupid for asking questions.
+
+### Misconception 2 - Software Engineering is all about Coding
+It is very easy to think that Software Engineers are just programmers that are specialize to solve problems, but there is much more to that. For one, you need to have good communication and project management skills - both of which are actually the main topics of some of the classes I had to take in community college and then later in university. While coding is very important, being able to communicate clearly, manage projects, and getting stuff done is just as important. 
+
+### Misconception 3 - Software Engineers are "Lone-Rangers"
+This ties in with the previous misconception; Since Software Engineers are just seen as programmers, it is easy to assume that they do stuff just by themselves with much interaction. Well, that isn't entirely true either, as you will usually be working as a team with other programmers or software engineers on a project (hence you need to have good communication and project management skills, as mentioned previously). There might be some situations where you are primarily working by yourself, but generally you are working as a team with others. Thus, if you are the kind of person who struggles to communicate clearly or generally do not like interacting with others, then Software Engineering is not for you. 
+
+## What *Should* You Do If You Want To Be A Software Engineer?
+Going to college to get a Software Engineering (or Computer Science if that isn't available) degree and doing Software Engineering internships to get work experience are the two key things you should do if you want to be a Software Engineer. This entire GitHub repository is meant to help you regarding both, primarily what you will learn in college/university. 
+
+However, here are some other things that will definite help you on your journey:
+
+### 1. Be Curious
+The willingness to learn new things, even after you are done with school, is the most important things to have, not only for Software Engineering but life in general. Since technology is constantly changing and there are trends that will come and go regarding software or hardware, it is important to be curious as it will allow you to stay on top of the curve.
+
+### 2. Don't Let Failure Stop You
+Due to how school is structured, it seems like failure is not an option, as a failing grade could potentially mean the difference between you getting into a good university or dropping out and forced to work at McDonalds to make ends meet. However, to foster creativity - which is a good trait any engineer should have - failure is needed so you can learn from it and do things better the next time. Even if it is hard, remember that your failures do not define you, but how you react to them. 
