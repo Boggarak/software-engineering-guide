@@ -2,7 +2,7 @@
 This should be the very first section you should learn if you want to be a Software Engineer, and it involves having a good understanding of the computer you are using, like the components that make up a computer, what operating systems are and how to easily navigate through one, how to be effective in searching what you need on the internet, and how to use a terminal. While this stuff is rather basic, and I bet most of you already know what half of this stuff is, it is still important to cover as not mastering this stuff will make learning how to code a painful process. 
 
 ## What Will Be Covered in This Section?
-The material that I will be covering 
+The material that I will be covering in this section are the following in the following order:
 
 ### Computer Basics
 A **computer** is an (electronic) device that run instructions given by the user. Many things are a computer, including your gaming console and smartphone, and knowing the basic terminology for computer-related stuff, like the difference between hardware and software, different kinds of computers, and components that are used to make a computer, will be important if you want to be software engineer. 
